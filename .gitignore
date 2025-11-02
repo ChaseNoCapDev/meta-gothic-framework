@@ -46,9 +46,10 @@ test-results/
 **/test-results/
 *.tgz
 
-# Package locks (using npm)
+# Package locks (alternative package managers only)
 yarn.lock
 pnpm-lock.yaml
+# Note: package-lock.json is tracked for reproducible builds
 
 # Gateway environment file with GitHub token
 .env.gateway
@@ -57,9 +58,10 @@ pnpm-lock.yaml
 *.tsbuildinfo
 **/*.tsbuildinfo
 
-# NPM config with auth tokens
+# NPM config with auth tokens (.npmrc contains secrets, use .npmrc.template)
 .npmrc
 **/.npmrc
+!**/.npmrc.template
 
 # Build scripts (generated)
 build-all.sh

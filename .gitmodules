@@ -1,36 +1,36 @@
 [submodule "packages/claude-client"]
 	path = packages/claude-client
-	url = https://github.com/ChaseNoCap/claude-client.git
+	url = https://github.com/ChaseNoCapDev/claude-client.git
 [submodule "packages/prompt-toolkit"]
 	path = packages/prompt-toolkit
-	url = https://github.com/ChaseNoCap/prompt-toolkit.git
+	url = https://github.com/ChaseNoCapDev/prompt-toolkit.git
 [submodule "packages/sdlc-config"]
 	path = packages/sdlc-config
-	url = https://github.com/ChaseNoCap/sdlc-config.git
+	url = https://github.com/ChaseNoCapDev/sdlc-config.git
 [submodule "packages/sdlc-engine"]
 	path = packages/sdlc-engine
-	url = https://github.com/ChaseNoCap/sdlc-engine.git
+	url = https://github.com/ChaseNoCapDev/sdlc-engine.git
 [submodule "packages/sdlc-content"]
 	path = packages/sdlc-content
-	url = https://github.com/ChaseNoCap/sdlc-content.git
+	url = https://github.com/ChaseNoCapDev/sdlc-content.git
 [submodule "packages/graphql-toolkit"]
 	path = packages/graphql-toolkit
-	url = https://github.com/ChaseNoCap/graphql-toolkit.git
+	url = https://github.com/ChaseNoCapDev/graphql-toolkit.git
 [submodule "packages/context-aggregator"]
 	path = packages/context-aggregator
-	url = https://github.com/ChaseNoCap/context-aggregator.git
+	url = https://github.com/ChaseNoCapDev/context-aggregator.git
 [submodule "packages/ui-components"]
 	path = packages/ui-components
-	url = https://github.com/ChaseNoCap/ui-components.git
+	url = https://github.com/ChaseNoCapDev/ui-components.git
 [submodule "packages/github-graphql-client"]
 	path = packages/github-graphql-client
-	url = https://github.com/ChaseNoCap/github-graphql-client.git
+	url = https://github.com/ChaseNoCapDev/github-graphql-client.git
 [submodule "packages/logger"]
 	path = packages/logger
-	url = https://github.com/ChaseNoCap/logger
+	url = https://github.com/ChaseNoCapDev/logger.git
 [submodule "packages/event-system"]
 	path = packages/event-system
-	url = https://github.com/ChaseNoCap/event-system
+	url = https://github.com/ChaseNoCapDev/event-system.git
 [submodule "packages/file-system"]
 	path = packages/file-system
-	url = https://github.com/ChaseNoCap/file-system
+	url = https://github.com/ChaseNoCapDev/file-system.git

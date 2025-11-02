@@ -12,7 +12,7 @@
     "tsBuildInfoFile": ".tsbuildinfo"
   },
   "include": [
-    "packages/*/src/**/*"
+    "src/**/*"
   ],
   "exclude": [
     "node_modules",

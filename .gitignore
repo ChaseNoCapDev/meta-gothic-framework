@@ -52,3 +52,15 @@ pnpm-lock.yaml
 
 # Gateway environment file with GitHub token
 .env.gateway
+
+# TypeScript build info
+*.tsbuildinfo
+**/*.tsbuildinfo
+
+# NPM config with auth tokens
+.npmrc
+**/.npmrc
+
+# Build scripts (generated)
+build-all.sh
+build-packages.sh

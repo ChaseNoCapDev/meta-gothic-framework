@@ -34,15 +34,6 @@
 [submodule "packages/file-system"]
 	path = packages/file-system
 	url = https://github.com/ChaseNoCapDev/file-system.git
-[submodule "packages/di-framework"]
-	path = packages/di-framework
-	url = https://github.com/ChaseNoCapDev/di-framework.git
 [submodule "packages/cache"]
 	path = packages/cache
 	url = https://github.com/ChaseNoCapDev/cache.git
-[submodule "packages/test-helpers"]
-	path = packages/test-helpers
-	url = https://github.com/ChaseNoCapDev/test-helpers.git
-[submodule "packages/test-mocks"]
-	path = packages/test-mocks
-	url = https://github.com/ChaseNoCapDev/test-mocks.git
